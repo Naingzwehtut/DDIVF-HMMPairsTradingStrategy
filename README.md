@@ -15,7 +15,7 @@ An implementation of **"A Novel Algorithmic Trading Strategy using Hidden Markov
 ## Running it
 
 ```bash
-pip install numpy pandas matplotlib statsmodels hmmlearn yfinance
+pip install -r requirements.txt
 jupyter notebook ddivf_hmm_pairs_trading.ipynb
 ```
 
